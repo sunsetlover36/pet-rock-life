@@ -1,0 +1,32 @@
+export enum Sound {
+  FOOTSTEP_GRASS = "footstep_grass",
+  FOOTSTEP_WOOD = "footstep_wood",
+  MENU_CLICK = "menu_click",
+  POP_1 = "pop_1",
+  POP_2 = "pop_2",
+  POP_3 = "pop_3",
+  TRAMPOLINE_JUMP = "trampoline_jump",
+  TWINKLE_1 = "twinkle_1",
+  TWINKLE_2 = "twinkle_2",
+  TWINKLE_3 = "twinkle_3",
+  TWINKLE_4 = "twinkle_4",
+  SQUEAK = "squeak",
+  TALK = "talk",
+  STAMP = "stamp",
+  DOOR_OPEN = "door_open",
+  CAMERA_SHUTTER = "camera_shutter",
+}
+
+export enum BackgroundMusic {
+  TRACK_1 = "evening_harmony",
+  TRACK_2 = "floating_dream",
+  TRACK_3 = "forgotten_biomes",
+  TRACK_4 = "polar_lights",
+  TRACK_5 = "sunlight_through_leaves",
+  TRACK_6 = "retro_rescue",
+  TRACK_7 = "red_canyon_i",
+  TRACK_8 = "red_canyon_ii",
+  TRACK_9 = "neon_nexus_special",
+  TRACK_10 = "arcade_ascension",
+  TRACK_11 = "resurrection_of_evil",
+}

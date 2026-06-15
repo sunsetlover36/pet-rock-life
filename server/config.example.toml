@@ -1,0 +1,14 @@
+[gamemode]
+name = "pet_rock_life"
+
+[auth]
+providers = ["farcaster"]
+allow_anonymous = true
+
+[auth.farcaster]
+issuer = "https://auth.farcaster.xyz"
+audience = "prl.37.rocks"
+jwks_url = "https://auth.farcaster.xyz/.well-known/jwks.json"
+
+[farcaster]
+api_key = "your-neynar-api-key"

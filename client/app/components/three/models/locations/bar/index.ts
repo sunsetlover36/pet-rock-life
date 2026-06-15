@@ -1,0 +1,12 @@
+export { BarCounter } from "./bar-counter";
+export { Barrel } from "./barrel";
+export { Chair } from "./chair";
+export { Chicken } from "./chicken";
+export { EmptyMug } from "./empty-mug";
+export { BarWoodenFloor } from "./bar-wooden-floor";
+export { Mug } from "./mug";
+export { Plate } from "./plate";
+export { Shield } from "./shield";
+export { Sword } from "./sword";
+export { Table } from "./table";
+export { Torch } from "./torch";

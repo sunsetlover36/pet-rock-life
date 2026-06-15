@@ -1,0 +1,30 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.db
+
+# React Router / build output
+.react-router/
+build/
+dist/
+.vite/
+
+# Local runtime state
+server/config.toml
+server/db/
+server/rock
+rock/
+
+# Local assistant/editor state
+.claude/
+.aider*
+.vscode/
+
+# Generated/user data
+logs/
+static/
+*.local

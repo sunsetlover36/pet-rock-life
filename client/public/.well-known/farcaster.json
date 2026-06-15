@@ -1,0 +1,29 @@
+{
+  "frame": {
+    "name": "Pet Rock Life",
+    "version": "1",
+    "iconUrl": "https://prl.37.rocks/icon.png",
+    "homeUrl": "https://prl.37.rocks",
+    "imageUrl": "https://prl.37.rocks/hero.png",
+    "buttonTitle": "join pet rock life",
+    "splashImageUrl": "https://prl.37.rocks/splash.png",
+    "splashBackgroundColor": "#FEC3A6",
+    "webhookUrl": "https://api.neynar.com/f/app/cfdbc131-4d51-42a0-8b24-79b0b868fb6c/event",
+    "subtitle": "The MMO no one asked for.",
+    "description": "Take your rock for a walk in a tiny village. That’s the game. Name it. Watch it grow. Chat with strangers and their equally dead-inside rocks. No goals. No quests.",
+    "primaryCategory": "games",
+    "screenshotUrls": ["https://prl.37.rocks/screenshot.png"],
+    "heroImageUrl": "https://prl.37.rocks/hero.png",
+    "tags": ["game", "3d", "pet", "rock", "community"],
+    "tagline": "Your rock. Your rules.",
+    "ogTitle": "Pet Rock Life — Grow your rock",
+    "ogDescription": "yes just grow rock",
+    "ogImageUrl": "https://prl.37.rocks/hero.png",
+    "canonicalDomain": "prl.37.rocks"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjQyMzQwNiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDI4MDk0NGIwRDIxZkYwQzQyNGI3OTgyOGI1MTE3Nzg1MzVhYUU3NmMifQ",
+    "payload": "eyJkb21haW4iOiJwcmwuMzcucm9ja3MifQ",
+    "signature": "nRTTbdCMcdSjbghezBb7NEa53vRcWmgSVaGwm9n3AANTzSvl1Rlz52I3UwS+e+rAtvVp7LN+R6FGtNXIhs5ZFhw="
+  }
+}
